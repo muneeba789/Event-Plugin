@@ -1,4 +1,4 @@
-#Event Plugin
+# Event Plugin
 
 In the Wordpress Setup just import the file and you can view it. Only logged in from admin can test it!
 
