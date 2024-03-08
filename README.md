@@ -18,7 +18,7 @@ In the Wordpress Setup just import the file and you can view it. Only logged in 
 1. When booking an event, users should fill out a form capturing additional information (e.g., number of attendees, special requests).
 2. Implement form validation to ensure data integrity.
  
-### Phase 3: Admin Panel
+### Phase 3: Admin Panel(Optional)
 
 **Booking Oversight:**
 1. Create an admin interface to view all bookings. Each booking should have options to approve or reject.
